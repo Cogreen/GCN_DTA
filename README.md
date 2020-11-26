@@ -1,4 +1,5 @@
 # GCN_DTA: Graph Convolution Network for Drug Target Affinity
+DGraphDTA (https://github.com/595693085/DGraphDTA)
 
 ### Dependedncies
 - numpy == 1.17.4
