@@ -1,7 +1,7 @@
 # GCN_DTA
 ## Graph Convolution Network for Drug Target Affinity
 
-## Dependedncies
+### Dependedncies
 numpy == 1.17.4
 keras == 2.3.1
 Pconsc4 == 0.4
