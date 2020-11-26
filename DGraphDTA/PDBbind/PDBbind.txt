@@ -1,0 +1,2 @@
+1. PDBbind having kd affinity (sample test: 100->77; samples are reduced due to smiles format) 
+2. only Kinase among PDBbind (sample test: 100)
