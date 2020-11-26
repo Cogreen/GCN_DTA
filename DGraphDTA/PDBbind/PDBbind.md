@@ -1,10 +1,7 @@
+# PDB_bind_DgraphDTA
+This page is bulit to test PDB_bind sample dataset via DGraphDTA model.
 1. PDBbind having kd affinity (sample test: 100->77; samples are reduced due to smiles format) 
 2. only Kinase among PDBbind (sample test: 100)
-
-
-# PDB_bind_DgraphDTA
-
-This page is bulit to test PDB_bind sample dataset via DGraphDTA model.
 
 ## Sampling
 1. Sampling(100): affinity distribution.py
